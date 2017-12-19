@@ -1,7 +1,7 @@
 # CNN-Fashion-MNIST
 
- I tried to implement a three layerd CNN with Batch Normalisation and MaxPooling.
- I got an Accuracy of 90.00 % after 5000 iterations. I added Batch normalisation after every later to accelerate the performance.
+ I tried to implement a three layer CNN with Batch Normalisation and MaxPooling.
+ I got an Accuracy of 90.33 % after 5000 iterations. I added Batch normalisation after every later to accelerate the performance.
 
 The Architecture is as follows-
 Convolutional Layer 1 with output feature map 16 and 5*5 kernel ReLU Activation
